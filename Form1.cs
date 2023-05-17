@@ -11,7 +11,7 @@ namespace CreateButtons
         public Form1()
         {
             InitializeComponent();
-            this.Text = "Run Button";
+            this.Text = "Create Buttons";
             this.StartPosition = FormStartPosition.CenterScreen;
         }
 
